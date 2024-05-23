@@ -1,12 +1,15 @@
 # KampKode
-Een innovatieve helm die kinderen laat samen buiten spelen door gebruik te maken van gamification, en spellen visueel sterker maakt.
+<p align ="center">
+  <img src="https://github.com/robbedeguytenaer/finaal-rapport/blob/main/beeldmateriaal/KampKode%20logo%202%20(1).png?raw=true"width="50%">
+</p>
+
+KampKode is een innovatieve helm die kinderen laat samen buiten spelen door gebruik te maken van gamification, en spellen visueel sterker maakt.
 
 *Projectteam: Robbe de Guytenaer; Kai Cherchye
 
 22/05/2024
 
 ## Samenvatting
-Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
 
 Ons project richt zich op het bevorderen van buiten spelen bij kinderen door natuur, spel en technologie te combineren. We pakken het probleem aan van de afname van buiten spelende kinderen, wat kan leiden tot zowel fysieke als mentale gezondheidsproblemen. Buiten spelen biedt veel meer positieve effecten in vergelijking met binnen spelen.
 
@@ -15,12 +18,6 @@ Om dit probleem beter te begrijpen, hebben we uitgebreid gebruikersonderzoek, in
 Om bestaande oplossingen in kaart te brengen, hebben we marktonderzoek en technologieanalyse uitgevoerd, inclusief benchmarking. Uit deze onderzoeken blijkt dat kinderen meer interesse tonen in speelgoed dat met meerdere personen te spelen is en dat een moderne vorm heeft. Bovendien blijkt dat kinderen gemakkelijker naar speelgoed grijpen dat een link heeft met videogames.
 
 Op basis van deze inzichten hebben we gebrainstormd en een innovatieve oplossing ontwikkeld: KampKode. KampKode is een helm die gebruik maakt van verschillende sensoren en technologieën om buiten spelen visueel aantrekkelijker en leuker te maken voor kinderen. Met deze helm kunnen kinderen in de natuur videospelervaringen nabootsen en samen met hun vrienden actief en lichamelijk bezig zijn. Het dragen van de helm bereidt kinderen voor op spannende spellen die buiten gespeeld kunnen worden, waardoor het buiten spelen weer aantrekkelijk en interactief wordt.
-
-- Wat is het probleem?
-- Hoe heb je dit onderzocht?
-- Wat is jouw oplossing?
-- Hoe lost jouw oplossing het probleem op?
-- Hero sketch/render/image
 
 
 ## Introductie
