@@ -18,8 +18,11 @@ Om dit probleem beter te begrijpen, hebben we uitgebreid gebruikersonderzoek, in
 Om bestaande oplossingen in kaart te brengen, hebben we marktonderzoek en technologieanalyse uitgevoerd, inclusief benchmarking. Uit deze onderzoeken blijkt dat kinderen meer interesse tonen in speelgoed dat met meerdere personen te spelen is en dat een moderne vorm heeft. Bovendien blijkt dat kinderen gemakkelijker naar speelgoed grijpen dat een link heeft met videogames.
 
 Op basis van deze inzichten hebben we gebrainstormd en een innovatieve oplossing ontwikkeld: KampKode. KampKode is een helm die gebruik maakt van verschillende sensoren en technologieën om buiten spelen visueel aantrekkelijker en leuker te maken voor kinderen. Met deze helm kunnen kinderen in de natuur videospelervaringen nabootsen en samen met hun vrienden actief en lichamelijk bezig zijn. Het dragen van de helm bereidt kinderen voor op spannende spellen die buiten gespeeld kunnen worden, waardoor het buiten spelen weer aantrekkelijk en interactief wordt.
-
-
+<p>
+<img src="https://github.com/robbedeguytenaer/finaal-rapport/blob/main/beeldmateriaal/voorbeeld%20app%20kampkode.png?raw=true"width="15%">
+<img src="https://github.com/robbedeguytenaer/finaal-rapport/blob/main/render.png?raw=true"width="30%">
+<img src="https://github.com/robbedeguytenaer/finaal-rapport/blob/main/beeldmateriaal/helm_geel.png?raw=true"width="25%">
+</p>
 ## Introductie
 Max 300 woorden.
 Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions).
