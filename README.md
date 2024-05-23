@@ -94,11 +94,11 @@ Mechanisme 3, getest als het klassieke 'tikken', maakte hoogte irrelevant en leg
 Mechanisme 4 gaf de testpersonen het gevoel van een digitaal spel, vergelijkbaar met 'lasershooten'. Hoewel ons product een vorm van lasershooten zou kunnen zijn, biedt dit mechanisme meerdere mogelijkheden. Voor deze methode is verdere ontwikkeling en testing nodig om de technologie te verfijnen.
 De testresultaten gaven een duidelijk beeld van de praktische toepassing van elk mechanisme en leverden waardevolle inzichten op. Hoewel de scores niet doorslaggevend waren, hebben ze ons richting gegeven voor verdere ontwikkeling. Mechanismes 3 en 4 scoorden het hoogste, waardoor we besloten de technologie achter deze methodes verder uit te werken en te testen in een expert review. De nodige bijlages van de test is terug te vinden in deelopdracht 4 in de bijlage.
 
-### Expert Review van Digitale Uitschakelmethodes
 
 Na de gebruikerstest hebben we een expert review uitgevoerd met drie medestudenten, waarbij ze de digitale uitschakelmethodes met sensoren beoordeelden. De uitschakelmethodes werden nagebootst met Arduino-aangestuurde sensoren, waaronder een IR-sensor, een kleurensensor, een ultrasoonsensor en Bluetooth-componenten. De IR-sensor en kleurensensor simuleerden een soort lasershooting, terwijl de ultrasoonsensor en Bluetooth-componenten de afstand tussen gebruiker en tegenstander maten om iemand binnen een bepaalde radius te detecteren. De gebruikte Arduino-codes voor deze sensoren zijn terug te vinden in de bijlage.
 
 Voor de test gebruikten we een evaluatieformulier waarop de medestudenten punten gaven van 1 tot 5 op verschillende aspecten: gebruiksvriendelijkheid, nauwkeurigheid, algemene gebruikservaring, robuustheid en bereik. Daarnaast konden ze extra opmerkingen toevoegen en de sensoren rangschikken van 1 (meest toepasselijk) tot 4 (minst toepasselijk) op basis van hun buitenspeelervaring.
+
 1. **Bluetooth-componenten**
    - Sterke punten: Hoge waarderingen voor gebruiksvriendelijkheid en bereik. 
    - Zwakke punten: Andere aspecten scoorden ook redelijk hoog (3 tot 4).
@@ -118,6 +118,25 @@ Voor de test gebruikten we een evaluatieformulier waarop de medestudenten punten
 
 Op basis van de evaluatieformulieren en rangschikking kwamen de Bluetooth-componenten en IR-sensor als beste uit de bus. Ze scoorden het hoogst op gebruiksvriendelijkheid, nauwkeurigheid en algemene gebruikservaring. De kleurensensor en ultrasoonsensor bleken minder geschikt vanwege hun beperkingen in bereik, nauwkeurigheid en gebruiksvriendelijkheid.
 Daarom hebben we besloten verder te gaan met de Bluetooth-componenten en de IR-sensor. Deze zullen in de volgende fase verder worden ontwikkeld en getest om hun potentieel volledig te benutten. Voor gedetailleerde informatie over de tests verwijzen we naar deelopdracht 4 in de bijlage.
+
+
+
+Voor de laatste aanpassing aan het prototype hebben we een hiërarchische taakanalyse uitgevoerd om de interacties van de gebruiker met de helm te bestuderen. Het doel van deze analyse is om de interacties te optimaliseren en het prototype te verbeteren op basis van de geïdentificeerde optimalisaties. Deze aanpak houdt in dat alle interacties van de gebruiker met het product worden opgesplitst in hoofdtaken, subtaken, sub-subtaken, enzovoort. Door varianten binnen de subtaken te definiëren, kunnen we de beste ontwerpbeslissingen nemen die het meest voldoen aan de wensen van de gebruiker.
+
+We hebben het gebruik van de helm onderverdeeld in vier fasen:
+1. **Begin van het spel**
+2. **Spelen van het spel**
+3. **Einde van het spel**
+4. **Na gebruik**
+
+Door deze interacties gedetailleerd te beschrijven, hebben we nieuwe optimalisaties geïdentificeerd, zoals:
+
+- **Aansteken van de helm door de lamp erop te draaien**: Dit maakt het gebruiksvriendelijker en intuïtiever.
+- **Afneembare lamp**: Dit biedt voordelen bij opslag en opladen. Alleen de lamp hoeft opgeladen te worden, wat het proces vereenvoudigt.
+- **Losneembare binnenhoes in de helm**: Dit verbetert de hygiëne doordat de binnenhoes gewassen kan worden.
+
+Voor meer gedetailleerde informatie over deze hiërarchische taakanalyse en de specifieke optimalisaties kunt u deelopdracht 5 raadplegen, die in de bijlage is opgenomen.
+Door deze verbeteringen door te voeren, streven we naar een prototype dat beter aansluit bij de behoeften van de gebruiker en een hogere mate van gebruiksvriendelijkheid en functionaliteit biedt.
 
 ## Methodologie
 Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal een tijdsincatie te zien zijn, moeten fasen te zien zijn en moeten activiteiten te zien zijn.
