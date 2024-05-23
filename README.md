@@ -18,15 +18,13 @@ Om dit probleem beter te begrijpen, hebben we uitgebreid gebruikersonderzoek, in
 Om bestaande oplossingen in kaart te brengen, hebben we marktonderzoek en technologieanalyse uitgevoerd, inclusief benchmarking. Uit deze onderzoeken blijkt dat kinderen meer interesse tonen in speelgoed dat met meerdere personen te spelen is en dat een moderne vorm heeft. Bovendien blijkt dat kinderen gemakkelijker naar speelgoed grijpen dat een link heeft met videogames.
 
 Op basis van deze inzichten hebben we gebrainstormd en een innovatieve oplossing ontwikkeld: KampKode. KampKode is een helm die gebruik maakt van verschillende sensoren en technologieën om buiten spelen visueel aantrekkelijker en leuker te maken voor kinderen. Met deze helm kunnen kinderen in de natuur videospelervaringen nabootsen en samen met hun vrienden actief en lichamelijk bezig zijn. Het dragen van de helm bereidt kinderen voor op spannende spellen die buiten gespeeld kunnen worden, waardoor het buiten spelen weer aantrekkelijk en interactief wordt.
-<p>
+<p align ="center">
 <img src="https://github.com/robbedeguytenaer/finaal-rapport/blob/main/beeldmateriaal/voorbeeld%20app%20kampkode.png?raw=true"width="15%">
-<img src="https://github.com/robbedeguytenaer/finaal-rapport/blob/main/render.png?raw=true"width="30%">
+<img src="https://github.com/robbedeguytenaer/finaal-rapport/blob/main/render.png?raw=true"width="25%">
 <img src="https://github.com/robbedeguytenaer/finaal-rapport/blob/main/beeldmateriaal/helm_geel.png?raw=true"width="25%">
 </p>
+
 ## Introductie
-Max 300 woorden.
-Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions).
-Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)).
 
 ## Definition: discover
 
@@ -34,6 +32,10 @@ Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/catego
 
 Om ons product concreet uit te werken, zijn we begonnen met het maken van eenvoudige schetsen van het idee, gevolgd door een eenvoudig prototype. Voor dit eerste prototype hebben we een bestaande helm aangepast door een schuimen lamp op de bovenkant te bevestigen, waarbij een LED lichtte op bij het indrukken van de lamp. Daarnaast hebben we een staart aan de achterkant van de helm geïntegreerd, waarbij de LED oplichtte bij het trekken aan de staart.
 Na het vervaardigen van het eerste prototype hebben we verschillende soorten lampen gemaakt om in de volgende fase tests uit te voeren op personene uit ons doelgroep. Deze tests waren gericht op het evalueren van de eerste ontwerpvereiste, namelijk de verschillende uitschakelmogelijkheden. We hebben vier uitschakelmogelijkheden getest, uitschakelen door te drukken op de lamp bovenaan, uitschakelen door te trekken aan de staart, uitschakelen door te tikken op een flexibele lamp, uitschakelen door het afnemen van een afneembare lamp. Deze tests hielpen ons bij het verzamelen van waardevolle feedback en inzichten, die cruciaal waren voor de verdere ontwikkeling van ons product. De resultaat van de test was als volgt:
+
+<p align ="center">
+<img src="https://github.com/robbedeguytenaer/finaal-rapport/blob/main/beeldmateriaal/helm%20vizcom.png?raw=true"width="40%">
+</p>
 
 **1. Uitschakelen door drukken op de lamp bovenaan**
 
@@ -66,6 +68,9 @@ Bij de evaluatie van de concepten waren veiligheidsoverwegingen cruciaal. Concep
 In de beginfase hebben we uitgebreid onderzoek gedaan naar het probleem, wat een sterke basis legde voor verdere ontwikkeling. Bij het brainstormen misten we echter belangrijke aspecten zoals de behoeften van mensen met beperkingen en financiële overwegingen, die later dankzij de groep uit Gent werden geïntegreerd.
 Ons late begin met het prototype beperkte onze mogelijkheden voor interviews en gebruikerstesten, wat de analyse van ons ontwerp beïnvloedde. Tijdens het prototypeproces ontdekten we problemen en kansen die we eerder hadden gemist. Vroegtijdig beginnen met een eenvoudig prototype had waardevolle inzichten kunnen opleveren.
 Deze reflectie benadrukt het belang van een holistische benadering tijdens brainstormen en het tijdig ontwikkelen van een eenvoudig prototype. Deze lessen zijn cruciaal voor toekomstige projecten. Voor meer informatie van dit onderdeel kan dit terug gevonden worden in deelopdracht 2 ijn de bijlage.
+<p align ="center">
+<img src="https://github.com/robbedeguytenaer/finaal-rapport/blob/main/beeldmateriaal/verschillende%20lampen%202.jpg?raw=true"width="50%">
+</p>
 
 ## Develop 1: Ergonnomie
 
@@ -76,11 +81,25 @@ Voor het bepalen van de helmmaat gebruikten we de ontwerpstrategie "design for t
 Voor de hoofdomtrek gebruikten we gegevens van DINED voor 6-8-jarigen en schaalden deze met een factor 1,05, afgeleid uit de verhouding van de hoofdafmetingen tussen 6 en 12 jaar in DINBelg. Dit gaf ons een hoofdomtrek van 561 mm. De standaardafwijking werd overgenomen uit de DINED-tabellen, aangezien deze bij DINBelg voor hoofd diepte en breedte consistent bleef tussen 6 en 12 jaar.
 Dit onderzoek gaf ons waardevolle inzichten in de benodigde afmetingen van onze helm. Door voor alle maten "design for the tall" toe te passen en een verstelsysteem te integreren, kunnen we ervoor zorgen dat de helm geschikt is voor alle kinderen binnen onze doelgroep, inclusief degenen die niet tot de uiterste gevallen behoren.
 
+<p align ="center">
+<img src="https://github.com/robbedeguytenaer/finaal-rapport/blob/main/beeldmateriaal/DINBelg%20hoofd%20diepte%20en%20breedte.png?raw=true"width="50%">
+<img src="https://github.com/robbedeguytenaer/finaal-rapport/blob/main/beeldmateriaal/DINED%20hoofd%20omtrek,%20diepte%20en%20breedte.png?raw=true"width="50%">
+</p>
+
 ### Gebruikerstest 2:
 
 Daarnaast hebben we een gebruikerstest uitgevoerd om de ergonomie van de helm verder te evalueren. We wilden nagaan of kinderen gemakkelijk met hun hand hun eigen hoofd kunnen bereiken om knoppen op de helm te bedienen, en of ze daarbij enige hinder ondervinden voor, tijdens en na het spel. Tevens onderzochten we de meest geschikte positie voor deze knoppen.
 Voor deze test hebben we met het CAD-programma Siemens NX de houdingen van de hand naar het hoofd gesimuleerd om te bepalen of deze houding comfortabel is. De resultaten toonden aan dat deze houding zelfs comfortabeler is dan normaal rechtop staan.
 De fysieke gebruikerstest werd uitgevoerd met een eenvoudige helm voorzien van twee kartonnen schijfjes die knoppen nabootsen. Deze schijfjes werden getest op drie verschillende posities: 30°, 50° en 90° ten opzichte van de voorkant van de helm. Voor de evaluatie maakten we gebruik van een evaluatieformulier met twee vragen die de deelnemers moesten beoordelen op een schaal van 1 tot 10: 'Hoe moeiteloos voer je de handeling uit (dus geen fysieke klachten)?' en 'Hoe gemakkelijk was het om tot de knoppen te geraken met je hand?'.
+
+<p align ="center">
+<img src="https://github.com/robbedeguytenaer/finaal-rapport/blob/main/beeldmateriaal/NX%20mannequin%20test%20ergonomie.png?raw=true"width="80%">
+<img src="https://github.com/robbedeguytenaer/finaal-rapport/blob/main/beeldmateriaal/schets%20knoppen%20positie%201.png?raw=true"width="32%">
+<img src="https://github.com/robbedeguytenaer/finaal-rapport/blob/main/beeldmateriaal/schets%20knoppen%20positie%202.png?raw=true"width="32%">
+<img src="https://github.com/robbedeguytenaer/finaal-rapport/blob/main/beeldmateriaal/schets%20knoppen%20positie%203.png?raw=true"width="32%">
+<img src="https://github.com/robbedeguytenaer/finaal-rapport/blob/main/beeldmateriaal/IMG_4539.JPG?raw=true"width="20%">
+<img src="https://github.com/robbedeguytenaer/finaal-rapport/blob/main/beeldmateriaal/IMG_4532.JPG?raw=true"width="20%">
+</p>
 
 ### Resultaat test 2:
 
@@ -103,6 +122,12 @@ Voor elke methode werd een eenvoudig prototype gemaakt om het concept te testen.
 - Is het spel veilig verlopen?
 Robbe en Kai vulden het formulier ook in op basis van hun observaties tijdens de tests. De scores werden vervolgens samengevoegd en geëvalueerd om de beste uitschakelmethodes te bepalen.
 
+<p align ="center">
+<img src="https://github.com/robbedeguytenaer/finaal-rapport/blob/main/beeldmateriaal/IMG_4473.JPG?raw=true"width="20%">
+<img src="https://github.com/robbedeguytenaer/finaal-rapport/blob/main/beeldmateriaal/IMG_4482.JPG?raw=true"width="20%">
+<img src="https://github.com/robbedeguytenaer/finaal-rapport/blob/main/beeldmateriaal/IMG_4488.JPG?raw=true"width="20%">
+</p>
+
 ### Resultaat test 3:
 
 ||Mechanisme 1|Mechanisme 2|Mechanisme 3|Mechanisme 4|
@@ -122,6 +147,13 @@ Na de gebruikerstest hebben we een expert review uitgevoerd met drie medestudent
 ### Resultaat expert review
 
 Voor de test gebruikten we een evaluatieformulier waarop de medestudenten punten gaven van 1 tot 5 op verschillende aspecten: gebruiksvriendelijkheid, nauwkeurigheid, algemene gebruikservaring, robuustheid en bereik. Daarnaast konden ze extra opmerkingen toevoegen en de sensoren rangschikken van 1 (meest toepasselijk) tot 4 (minst toepasselijk) op basis van hun buitenspeelervaring.
+
+|Totaal score sensoren|Emile Delanote|Oscar Ortega Saez|Warre De Vriendt|Opsomming|
+|---:|:---:|:---:|:---:|:---:|
+|IR-sensor|20|22|23|65|
+|Kleurensensor|21|15|22|58|
+|Ultrasoonsensor|21|13|17|51|
+|Bluetooth|22|22|25|69|
 
 1. **Bluetooth-componenten**
    - Sterke punten: Hoge waarderingen voor gebruiksvriendelijkheid en bereik. 
@@ -143,6 +175,11 @@ Voor de test gebruikten we een evaluatieformulier waarop de medestudenten punten
 Op basis van de evaluatieformulieren en rangschikking kwamen de Bluetooth-componenten en IR-sensor als beste uit de bus. Ze scoorden het hoogst op gebruiksvriendelijkheid, nauwkeurigheid en algemene gebruikservaring. De kleurensensor en ultrasoonsensor bleken minder geschikt vanwege hun beperkingen in bereik, nauwkeurigheid en gebruiksvriendelijkheid.
 Daarom hebben we besloten verder te gaan met de Bluetooth-componenten en de IR-sensor. Deze zullen in de volgende fase verder worden ontwikkeld en getest om hun potentieel volledig te benutten. Voor gedetailleerde informatie over de tests verwijzen we naar deelopdracht 4 in de bijlage.
 
+<p>
+  <img src="beeldmateriaal/emile_IR.jpg" width="33%"/>
+  <img src="beeldmateriaal/Oscar_bluetooth.jpg" width="33%"/>
+  <img src="beeldmateriaal/Warre_IR (2).jpg" width="33%"/>
+</p>
 
 ## Develop 3: Hiërarchische taakanalyse
 
@@ -155,6 +192,11 @@ We hebben het gebruik van de helm onderverdeeld in vier fasen:
 2. **Spelen van het spel**
 3. **Einde van het spel**
 4. **Na gebruik**
+
+<p>
+  <img src="https://github.com/robbedeguytenaer/finaal-rapport/blob/main/taakanalyse.png?raw=true" width="100%"/>
+</p>
+
 
 ### Resultaat taakanalyse:
 
@@ -182,7 +224,7 @@ Door deze verbeteringen door te voeren, streven we naar een prototype dat beter 
 
 
 
-## Finalisatie van het Prototype
+## Finaal prototype
 
 Na de gebruikerstesten en het opstellen van de design requirements hebben we ons finale prototype ontwikkeld, gemaakt van schuim met een thermovorm eromheen. De belangrijkste kenmerken van dit prototype zijn als volgt:
 
@@ -195,46 +237,66 @@ Na de gebruikerstesten en het opstellen van de design requirements hebben we ons
 Met deze functies kunnen we effectief testen uitvoeren bij het begin van het spel, tijdens het lopen met de lamp op de helm, aan het einde van het spel en na gebruik. Deze verbeteringen en integraties zorgen ervoor dat het prototype zowel functioneel als veilig is, klaar voor uitgebreide gebruikerstesten in realistische spelomstandigheden.
 
 
-## Methodologie
-Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal een tijdsincatie te zien zijn, moeten fasen te zien zijn en moeten activiteiten te zien zijn.
-
-## Discovery
-Max. 1000 woorden
-### Doestellingen
-Wat wilde je bereiken?
-### Materiaal & methoden
-Hoe onderzocht je dit? Wees volledig.
-### Resultaten
-Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
-### Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen
-
-## Definition
-Max. 1000 woorden
-### Doestellingen
-Wat wilde je bereiken?
-### Materiaal & methoden
-Hoe onderzocht je dit? Wees volledig.
-### Resultaten
-Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
-### Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen
-
 ## Bill of materials
-- Welk
-- Materiaal
-- Heb
-- Je
-- Nu
-- Nodig
-- Voor
-- Je
-- Prototype
+- Schuim: basis van de helm, knoppen
+- Polymess: gebruikt om kaft te thermovormen
+- Led’s
+- Bevestigingsmateriaal (lijm, plakband, tandenstokers)
+- Draden
+- Helm
+- Magneet
+- Arduino uno
+- Arduino nano 33 iot
+- Infraroodsensor
+- Infraroodzender
+- Lleurensensor
+- Rgb led
+- Ultrasonorsensor
+- Binnenhoes
+- Strap
+- PLA: 3d prints
 
 ## Kritische reflectie
-Max. 500 woorden
 
+### Positieve Punten
+
+**1. Innovatief Gebruik van Gamification:**
+Het gebruik van gamification om kinderen te motiveren om meer buiten te spelen, is een slimme manier om technologie te benutten in de strijd tegen een groeiend probleem. Dit speelt in op de behoeften van de huidige generatie, die vaak meer betrokken raakt bij interactieve en speelse benaderingen.
+
+**2. Consistentie in Ontwerpbeslissingen:**
+Vanaf het begin van het project hebben we ervoor gekozen om met een helm te werken. Deze consistente focus heeft ons geholpen om gericht te blijven en de helm door verschillende iteraties te verbeteren. We hebben diverse componenten toegevoegd en verwijderd om het beste resultaat te bereiken.
+
+**3. Gebruik van Methodologieën voor Besluitvorming:**
+We hebben meerdere methodologieën, zoals gebruikerstests en expert reviews, toegepast om beslissingen te nemen over de componenten van de helm. Deze benadering zorgde voor een onderbouwde en doordachte ontwikkeling van het product, waarbij de ervaringen en meningen van de doelgroep werden geïntegreerd.
+
+**4. Waardevolle Testervaringen:**
+De ervaringen uit gebruikerstests en expert reviews waren zeer waardevol. Ze gaven ons concrete resultaten en feedback die we konden gebruiken om ons ontwerp te verbeteren. Dit iteratieve proces verhoogde de kwaliteit en gebruiksvriendelijkheid van de helm.
+
+### Verbeterpunten
+
+**1. Eerder Starten met Prototype-ontwikkeling:**
+Een punt dat beter kon, was het eerder beginnen met het maken van een ruw prototype. Hierdoor hadden we sneller testen kunnen uitvoeren en waardevolle feedback kunnen integreren in ons ontwerp. Dit had ons wellicht tijd en middelen kunnen besparen en de kwaliteit van het eindproduct kunnen verhogen.
+
+**2. Inclusiviteit:**
+Het project lijkt zich voornamelijk te richten op kinderen zonder speciale behoeften. Een uitbreiding van het ontwerp om ook kinderen met lichamelijke of cognitieve beperkingen te betrekken, zou de inclusiviteit en impact van het project aanzienlijk vergroten. Dit zou het project toegankelijker en relevanter maken voor een bredere doelgroep.
+
+### Conclusie
+
+Terugkijkend op het traject van het ontwerp van KampKode, zijn we tevreden met ons eindproduct. We hebben sterke punten, zoals het innovatieve gebruik van gamification en een consistente ontwerpaanpak, gecombineerd met waardevolle testervaringen om tot een kwalitatief product te komen. Echter, er zijn ook lessen te leren, zoals het belang van eerder starten met prototyping en het vergroten van de inclusiviteit. Door deze aspecten te verbeteren, kunnen toekomstige projecten nog effectiever en impactvoller worden.
 ## Bronnen
-Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
+Meire, J. & Kind & Samenleving. (2020). *Het grote buitenspeelonderzoek.* https://k-s.be/medialibrary/purl/nl/6626949/Het%20grote%20buitenspeelonderzoek.pdf
+
+Kantar Public & Jantje Beton. (2022). *Onderzoek buitenspelen 2022.* https://jantjebeton.nl/uploads/downloads/onderzoek-buitenspelen-2022-62a06183eb380.pdf
+
+DINED. (n.d.). https://dined.io.tudelft.nl/en/database/tool
+
+DINBelg 2005 - antropometrie tabel. (n.d.). https://www.dinbelg.be/index.htm
+
+
 
 ## Bijlagen
+- [Miro board](https://miro.com/app/board/uXjVNZSFQTM=/)
+- [Deelopdracht 2](https://github.com/robbedeguytenaer/UCD_SEM1/blob/2638a34ac7d188e0727b5353b86f76b70f02b451/README.md)
+- [Deelopdracht 3](https://github.com/robbedeguytenaer/deelopdracht-3)
+- [Deelopdracht 4](https://github.com/robbedeguytenaer/deelopdracht-4)
+- [Deelopdracht 5]()
