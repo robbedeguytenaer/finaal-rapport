@@ -159,18 +159,23 @@ Voor de test gebruikten we een evaluatieformulier waarop de medestudenten punten
    - Sterke punten: Hoge waarderingen voor gebruiksvriendelijkheid en bereik. 
    - Zwakke punten: Andere aspecten scoorden ook redelijk hoog (3 tot 4).
    - Conclusie: Bluetooth-componenten werden over het algemeen als zeer bruikbaar beschouwd.
+   - Code 1: [Bluetooth zender](https://github.com/robbedeguytenaer/finaal-rapport/blob/main/slave/slave.ino)
+   - Code 2: [Bluetooth ontvanger](https://github.com/robbedeguytenaer/finaal-rapport/blob/main/master/master.ino)
 2. **IR-sensor**
    - Sterke punten: Hoge scores op de meeste aspecten.
    - Zwakke punten: Robuustheid scoorde iets lager.
    - Conclusie: De IR-sensor werd als effectief en nauwkeurig beoordeeld, met enige zorgen over robuustheid.
+   - Code: [IR-sensor](https://github.com/robbedeguytenaer/finaal-rapport/blob/main/ir_sensor/ir_sensor.ino)
 3. **Kleurensensor**
    - Sterke punten: Interessant en leuk concept.
    - Zwakke punten: Beperkt bereik en onnauwkeurige kleurdetectie bij snelle bewegingen.
    - Conclusie: Hoewel leuk, had de kleurensensor praktische beperkingen die het minder geschikt maakten.
+   - Code: [Kleurensensor](https://github.com/robbedeguytenaer/finaal-rapport/blob/main/lichtsensor/lichtsensor.ino)
 4. Ultrasoonsensor
    - Sterke punten: Interessant voor het meten van afstanden.
    - Zwakke punten: Lage scores op alle aspecten; detecteerde ook niet-spelers, wat het gebruik bemoeilijkte.
    - Conclusie: De ultrasoonsensor was minder geschikt door de lage nauwkeurigheid en brede detectie.
+   - Code: [Ultrasoonsensor](https://github.com/robbedeguytenaer/finaal-rapport/blob/main/ultrasone/ultrasone.ino)
 
 Op basis van de evaluatieformulieren en rangschikking kwamen de Bluetooth-componenten en IR-sensor als beste uit de bus. Ze scoorden het hoogst op gebruiksvriendelijkheid, nauwkeurigheid en algemene gebruikservaring. De kleurensensor en ultrasoonsensor bleken minder geschikt vanwege hun beperkingen in bereik, nauwkeurigheid en gebruiksvriendelijkheid.
 Daarom hebben we besloten verder te gaan met de Bluetooth-componenten en de IR-sensor. Deze zullen in de volgende fase verder worden ontwikkeld en getest om hun potentieel volledig te benutten. Voor gedetailleerde informatie over de tests verwijzen we naar deelopdracht 4 in de bijlage.
@@ -222,6 +227,11 @@ Het prototype dat we voor deze test gebruikten, bestond uit de volgende componen
 - Interne bedrading
 - Een gemarkeerde aan/uit-knop aan de rechter zijkant van de helm
 
+<p align ="center">
+<img src="https://github.com/robbedeguytenaer/finaal-rapport/blob/main/helm%20deelopdracht5.png?raw=true"width="30%">
+<img src="https://github.com/robbedeguytenaer/finaal-rapport/blob/main/prototype%20deelopdracht%205.png?raw=true"width="30%">
+</p>
+
 De test richtte zich op hoe gebruikers de verschillende interacties met het prototype ervoeren en wat ze ervan vonden. Hiervoor hebben we zes interacties gekozen:
 
 1. De helm aanzetten
@@ -259,6 +269,13 @@ Vervolgens hebben we elke testpersoon de zes interacties laten uitvoeren met de 
 |‘Laser’ (lampje vooraan) doen branden met drukknoppen|OK|OK|OK|OK|
 |Helm ‘aanzetten’|OK|OK|OK|OK|
 |Alle voorgaande direct achter elkaar|OK, maar duurt redelijk lang|OK|OK, maar duurt redelijk lang|OK|
+
+<p align ="center">
+<img src="https://github.com/robbedeguytenaer/finaal-rapport/blob/main/gebruikerstest5.png?raw=true"width="25%">
+<img src="https://github.com/robbedeguytenaer/finaal-rapport/blob/main/gebruikerstest4.png?raw=true"width="25%">
+<img src="https://github.com/robbedeguytenaer/finaal-rapport/blob/main/gebruikerstest1.png?raw=true"width="25%">
+<img src="https://github.com/robbedeguytenaer/finaal-rapport/blob/main/gebruikerstest.png?raw=true"width="20%">
+</p>
 
 Uit de feedback bleek dat er te veel stappen waren bij het opzetten van de helm en dat de helm niet goed bleef zitten tijdens het spelen, wat niet ideaal is. Door de testpersonen het product zelf te laten uitproberen, konden we belangrijke informatie verkrijgen over de interacties die minder intuïtief waren. Na de test hebben we de verschillende interacties nog eens overlopen en besproken wat beter kon. We legden alternatieve manieren voor, en na deze bespreking hebben Kai en Robbe beslist welke interacties ze zouden optimaliseren.
 
