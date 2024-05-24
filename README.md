@@ -211,18 +211,67 @@ Door deze verbeteringen door te voeren, streven we naar een prototype dat beter 
 
 ### Gebruikerstest 4:
 
+Voor de laatste gebruikerstest hebben we ons voorlopig prototype gebruikt om, op basis van de feedback, ons finale prototype te ontwikkelen. We hebben vier testpersonen uit onze doelgroep geselecteerd, met leeftijden van 7, 8, 10 en 12 jaar, om een diversiteit in leeftijd te waarborgen en inzicht te krijgen in leeftijdsgerelateerde verschillen. 
+Het prototype dat we voor deze test gebruikten, bestond uit de volgende componenten:
 
+- Een helm gemaakt van schuim met een thermogevormde buitenkant
+- Een kinriem om de helm vast te maken aan het hoofd
+- Een opklikbare lamp
+- Twee knoppen voor de bediening van het spel
+- Een infraroodlamp aan de voorkant
+- Interne bedrading
+- Een gemarkeerde aan/uit-knop aan de rechter zijkant van de helm
 
+De test richtte zich op hoe gebruikers de verschillende interacties met het prototype ervoeren en wat ze ervan vonden. Hiervoor hebben we zes interacties gekozen:
 
+1. De helm aanzetten
+2. De helm aandoen en aanspannen
+3. Lopen met de helm op
+4. De lamp opklikken
+5. De 'laser' activeren met de drukknoppen
+6. Alle voorgaande handelingen direct achter elkaar uitvoeren
 
+Na de test werd de testpersonen gevraagd om hun mening te geven over deze verschillende interacties. Ze gaven aan of de interacties goed verliepen of niet, en indien dat niet het geval was, gaven ze aan wat er precies misging.
+De feedback uit deze test was essentieel voor het verfijnen en verbeteren van ons finale prototype. 
 
+### Resultaat test 4:
 
+### Gebruikerstest Resultaten en Optimalisaties
 
+Voor de laatste gebruikerstest hebben we ons voorlopige prototype gebruikt om, op basis van de feedback, ons finale prototype te ontwikkelen. We hebben vier testpersonen uit onze doelgroep geselecteerd, met leeftijden van 7, 8, 10 en 12 jaar, om een diversiteit in leeftijd te waarborgen en inzicht te krijgen in leeftijdsgerelateerde verschillen.
 
+In het begin van de test stelden we een simpele vraag aan de testpersonen: "Wat is dit?" Het resultaat was als volgt:
 
+| Naam (Leeftijd) | Antwoord|
+|---:|:---:|
+| Lenne (7)|Een helm met een lamp op.|
+| Wiebe (12)|Een helm, een grote lamp, twee uitsteeksels, een mikker. |
+| Jutta (8)|Een helm met grote lamp op.|
+| Finn (10)|Een legerhelm met een lamp op.|
 
+Vervolgens hebben we elke testpersoon de zes interacties laten uitvoeren met de volgende resultaten:
 
+|Interactie|Lenne (7)|Wiebe (12)|Jutta (8)|Finn (10)|
+|:---|:---:|:---:|:---:|:---:|
+|De helm aandoen en aanspannen|OK, hulp nodig bij aanspannen strap|OK|OK|OK, hulp nodig bij aanspannen strap|
+|Lopen met de helm| Helm valt te groot uit, trekt scheef|OK|Helm is te groot|Helm is te groot|
+|Lamp opklikken|OK|OK, maar had eerst draairichting fout|OK, maar had eerst draairichting fout|OK, maar had eerst draairichting fout |
+|‘Laser’ (lampje vooraan) doen branden met drukknoppen|OK|OK|OK|OK|
+|Helm ‘aanzetten’|OK|OK|OK|OK|
+|Alle voorgaande direct achter elkaar|OK, maar duurt redelijk lang|OK|OK, maar duurt redelijk lang|OK|
 
+Uit de feedback bleek dat er te veel stappen waren bij het opzetten van de helm en dat de helm niet goed bleef zitten tijdens het spelen, wat niet ideaal is. Door de testpersonen het product zelf te laten uitproberen, konden we belangrijke informatie verkrijgen over de interacties die minder intuïtief waren. Na de test hebben we de verschillende interacties nog eens overlopen en besproken wat beter kon. We legden alternatieve manieren voor, en na deze bespreking hebben Kai en Robbe beslist welke interacties ze zouden optimaliseren.
+
+|Interactie|Optimalisatie|
+|:---|:---|
+|Helm 'aanzetten'|/|
+|Lamp opklikken| Draairichting veranderen|
+|De helm aandoen en aanspannen|/|
+|Lopen met de helm| Verstelsysteem toevoegen binnenin|
+|'Laser' doen branden met drukknoppen|/|
+|Alle voorgaande direct achter elkaar uitvoeren|Geen aan/uit-knop, helm moet aangaan bij opdraaien lamp|
+
+Na het opsommen van deze optimalisaties zijn we begonnen met het maken van het finale prototype, waarin we de verkregen feedback integreerden. Voor meer informatie over deze test kunt u de bijlage bij Deelopdracht 5 raadplegen.
 
 ## Finaal prototype
 
@@ -274,8 +323,8 @@ De ervaringen uit gebruikerstests en expert reviews waren zeer waardevol. Ze gav
 
 ### Verbeterpunten
 
-**1. Diversiteit:**
-Bij het brainstormen hebben we ons onvoldoende gericht op diverse aspecten zoals inclusiviteit, financiële overwegingen en privacy van de gebruiker. De feedback van de studenten uit Gent heeft ons geholpen om deze aspecten beter te integreren in ons ontwerp. Dit heeft ons doen beseffen dat een breder perspectief noodzakelijk is voor een succesvol project.
+**1. Diversiteit in overwegingen:**
+Bij het brainstormen hebben we ons onvoldoende gericht op diverse aspecten zoals inclusiviteit, financiële overwegingen en privacy van de gebruiker. De studenten uit Gent hebben ons geholpen om deze belangrijke aspecten niet over het hoofd te zien. Dit heeft ons bewust gemaakt van de noodzaak om in toekomstige projecten breder te denken en verschillende perspectieven te integreren.
 
 **2. Eerder Starten met Prototype-ontwikkeling:**
 Een punt dat beter kon, was het eerder beginnen met het maken van een ruw prototype. Hierdoor hadden we sneller testen kunnen uitvoeren en waardevolle feedback kunnen integreren in ons ontwerp. Dit had ons wellicht tijd en middelen kunnen besparen en de kwaliteit van het eindproduct kunnen verhogen.
@@ -305,4 +354,4 @@ DINBelg 2005 - antropometrie tabel. (n.d.). https://www.dinbelg.be/index.htm
 - [Deelopdracht 2](https://github.com/robbedeguytenaer/UCD_SEM1/blob/2638a34ac7d188e0727b5353b86f76b70f02b451/README.md)
 - [Deelopdracht 3](https://github.com/robbedeguytenaer/deelopdracht-3)
 - [Deelopdracht 4](https://github.com/robbedeguytenaer/deelopdracht-4)
-- [Deelopdracht 5]()
+- [Deelopdracht 5](https://github.com/robbedeguytenaer/deelopdracht-5)
