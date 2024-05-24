@@ -338,7 +338,7 @@ Met deze functies kunnen we effectief testen uitvoeren bij het begin van het spe
 - Arduino nano 33 iot
 - Infraroodsensor
 - Infraroodzender
-- Lleurensensor
+- Kleurensensor
 - Rgb led
 - Ultrasonorsensor
 - Binnenhoes
