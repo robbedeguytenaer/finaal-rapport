@@ -317,6 +317,14 @@ Na de gebruikerstesten en het opstellen van de design requirements hebben we ons
 
 Met deze functies kunnen we effectief testen uitvoeren bij het begin van het spel, tijdens het lopen met de lamp op de helm, aan het einde van het spel en na gebruik. Deze verbeteringen en integraties zorgen ervoor dat het prototype zowel functioneel als veilig is, klaar voor uitgebreide gebruikerstesten in realistische spelomstandigheden.
 
+<p align ="center">
+<img src="https://github.com/robbedeguytenaer/finaal-rapport/blob/main/download.jpg?raw=true"width="40%">
+<img src="https://github.com/robbedeguytenaer/finaal-rapport/blob/main/IMG_5436.JPG?raw=true"width="20%">
+<img src="https://github.com/robbedeguytenaer/finaal-rapport/blob/main/IMG_5428.JPG?raw=true"width="20%">
+<img src="https://github.com/robbedeguytenaer/finaal-rapport/blob/main/IMG_5424.JPG?raw=true"width="20%">
+<img src="https://github.com/robbedeguytenaer/finaal-rapport/blob/main/IMG_5418.JPG?raw=true"width="20%">
+<img src="https://github.com/robbedeguytenaer/finaal-rapport/blob/main/IMG_5416.JPG?raw=true"width="20%">
+</p>
 
 ## Bill of materials
 - Schuim: basis van de helm, knoppen
