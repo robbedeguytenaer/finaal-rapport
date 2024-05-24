@@ -1,11 +1,14 @@
 # KampKode
+
+Projectteam: Robbe de Guytenaer; Kai Cherchye
+
 <p align ="center">
   <img src="https://github.com/robbedeguytenaer/finaal-rapport/blob/main/beeldmateriaal/KampKode%20logo%202%20(1).png?raw=true"width="50%">
 </p>
 
 KampKode is een innovatieve helm die kinderen laat samen buiten spelen door gebruik te maken van gamification, en spellen visueel sterker maakt.
 
-Projectteam: Robbe de Guytenaer; Kai Cherchye
+
 
 ## Samenvatting
 
