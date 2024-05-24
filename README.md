@@ -344,6 +344,7 @@ Met deze functies kunnen we effectief testen uitvoeren bij het begin van het spe
 - Binnenhoes
 - Strap
 - PLA: 3d prints
+- Aanspanriem
 
 ## Kritische reflectie
 
