@@ -274,15 +274,21 @@ De ervaringen uit gebruikerstests en expert reviews waren zeer waardevol. Ze gav
 
 ### Verbeterpunten
 
-**1. Eerder Starten met Prototype-ontwikkeling:**
+**1. Diversiteit:**
+Bij het brainstormen hebben we ons onvoldoende gericht op diverse aspecten zoals inclusiviteit, financiële overwegingen en privacy van de gebruiker. De feedback van de studenten uit Gent heeft ons geholpen om deze aspecten beter te integreren in ons ontwerp. Dit heeft ons doen beseffen dat een breder perspectief noodzakelijk is voor een succesvol project.
+
+**2. Eerder Starten met Prototype-ontwikkeling:**
 Een punt dat beter kon, was het eerder beginnen met het maken van een ruw prototype. Hierdoor hadden we sneller testen kunnen uitvoeren en waardevolle feedback kunnen integreren in ons ontwerp. Dit had ons wellicht tijd en middelen kunnen besparen en de kwaliteit van het eindproduct kunnen verhogen.
 
-**2. Inclusiviteit:**
+**3. Inclusiviteit:**
 Het project lijkt zich voornamelijk te richten op kinderen zonder speciale behoeften. Een uitbreiding van het ontwerp om ook kinderen met lichamelijke of cognitieve beperkingen te betrekken, zou de inclusiviteit en impact van het project aanzienlijk vergroten. Dit zou het project toegankelijker en relevanter maken voor een bredere doelgroep.
+
+
 
 ### Conclusie
 
-Terugkijkend op het traject van het ontwerp van KampKode, zijn we tevreden met ons eindproduct. We hebben sterke punten, zoals het innovatieve gebruik van gamification en een consistente ontwerpaanpak, gecombineerd met waardevolle testervaringen om tot een kwalitatief product te komen. Echter, er zijn ook lessen te leren, zoals het belang van eerder starten met prototyping en het vergroten van de inclusiviteit. Door deze aspecten te verbeteren, kunnen toekomstige projecten nog effectiever en impactvoller worden.
+Terugkijkend op het traject van het ontwerp van KampKode, zijn we tevreden met ons eindproduct. We hebben sterke punten, zoals het innovatieve gebruik van gamification en een consistente ontwerpaanpak, gecombineerd met waardevolle testervaringen om tot een kwalitatief product te komen. Echter, er zijn ook belangrijke lessen te leren. Het is cruciaal om eerder te starten met prototyping en om vanaf het begin aandacht te besteden aan diversiteit en inclusiviteit. Door deze aspecten te verbeteren, kunnen toekomstige projecten nog effectiever en impactvoller worden, wat uiteindelijk bijdraagt aan een breder maatschappelijk draagvlak en succes.
+
 ## Bronnen
 Meire, J. & Kind & Samenleving. (2020). *Het grote buitenspeelonderzoek.* https://k-s.be/medialibrary/purl/nl/6626949/Het%20grote%20buitenspeelonderzoek.pdf
 
